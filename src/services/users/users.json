@@ -1,0 +1,26 @@
+[
+  {
+    "name": "john",
+    "surname": "rambo",
+    "_id": 1,
+    "createdAt": "2019-12-10T11:14:21.539Z"
+  },
+  {
+    "name": "arnold",
+    "surname": "schwarzi",
+    "_id": 2,
+    "createdAt": "2019-12-10T11:14:21.539Z"
+  },
+  {
+    "name": "arnold",
+    "surname": "schwarzi2",
+    "_id": 3,
+    "createdAt": "2019-12-10T11:14:21.539Z"
+  },
+  {
+    "name": "jo",
+    "surname": "rambo",
+    "_id": 4,
+    "createdAt": "2019-12-11T10:22:11.346Z"
+  }
+]
